@@ -1,13 +1,13 @@
-package com.enterprises.wecare.server;
+package com.infy.WeCare;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ServerApplication {
+public class WeCareApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ServerApplication.class, args);
+		SpringApplication.run(WeCareApplication.class, args);
 	}
 
 }
